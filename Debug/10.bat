@@ -1,0 +1,1 @@
+RayCasting.exe -input scene2_08.txt -size 200 200 -output output2_08.tga

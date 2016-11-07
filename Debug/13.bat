@@ -1,0 +1,1 @@
+RayCasting.exe -input scene2_11.txt -size 200 200 -output output2_11.tga -normals normals2_11.tga

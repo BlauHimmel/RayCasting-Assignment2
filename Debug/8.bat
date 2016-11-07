@@ -1,0 +1,1 @@
+RayCasting.exe -input scene2_07.txt -size 200 200 -output output2_07.tga -depth 9 11 depth2_07.tga -normals normals2_07.tga -shade_back
